@@ -1,5 +1,3 @@
-好的，这是根据您提供的 Python 脚本内容生成的配套 `README.md` 文档。
-
 ```markdown
 # 大学考勤系统自动签到脚本 (University Auto Sign-in)
 
