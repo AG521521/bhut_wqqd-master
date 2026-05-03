@@ -1,0 +1,189 @@
+[
+  {
+    "date": "2026-04-01",
+    "time": "13:29:19",
+    "total": 27,
+    "success": 0,
+    "failed": 27,
+    "success_rate": 0.0,
+    "duration": 2.9290242195129395,
+    "mode": "random",
+    "sample_size": 27
+  },
+  {
+    "date": "2026-04-01",
+    "time": "21:29:26",
+    "total": 27,
+    "success": 27,
+    "failed": 0,
+    "success_rate": 100.0,
+    "duration": 209.87451910972595,
+    "mode": "random",
+    "sample_size": 27
+  },
+  {
+    "date": "2026-04-01",
+    "time": "22:14:35",
+    "total": 27,
+    "success": 27,
+    "failed": 0,
+    "success_rate": 100.0,
+    "duration": 204.2463936805725,
+    "mode": "random",
+    "sample_size": 27
+  },
+  {
+    "date": "2026-04-01",
+    "time": "22:18:43",
+    "total": 27,
+    "success": 27,
+    "failed": 0,
+    "success_rate": 100.0,
+    "duration": 197.59512519836426,
+    "mode": "random",
+    "sample_size": 27
+  },
+  {
+    "date": "2026-04-02",
+    "time": "17:05:33",
+    "total": 27,
+    "success": 0,
+    "failed": 27,
+    "success_rate": 0.0,
+    "duration": 2.8846802711486816,
+    "mode": "random",
+    "sample_size": 27
+  },
+  {
+    "date": "2026-04-02",
+    "time": "21:28:58",
+    "total": 27,
+    "success": 27,
+    "failed": 0,
+    "success_rate": 100.0,
+    "duration": 210.93890833854675,
+    "mode": "random",
+    "sample_size": 27
+  },
+  {
+    "date": "2026-04-02",
+    "time": "21:44:53",
+    "total": 27,
+    "success": 27,
+    "failed": 0,
+    "success_rate": 100.0,
+    "duration": 201.89425015449524,
+    "mode": "random",
+    "sample_size": 27
+  },
+  {
+    "date": "2026-04-02",
+    "time": "21:51:17",
+    "total": 27,
+    "success": 27,
+    "failed": 0,
+    "success_rate": 100.0,
+    "duration": 208.6941499710083,
+    "mode": "random",
+    "sample_size": 27
+  },
+  {
+    "date": "2026-04-03",
+    "time": "21:29:35",
+    "total": 27,
+    "success": 27,
+    "failed": 0,
+    "success_rate": 100.0,
+    "duration": 219.16438722610474,
+    "mode": "random",
+    "sample_size": 27
+  },
+  {
+    "date": "2026-04-04",
+    "time": "21:29:10",
+    "total": 27,
+    "success": 27,
+    "failed": 0,
+    "success_rate": 100.0,
+    "duration": 193.5174880027771,
+    "mode": "random",
+    "sample_size": 27
+  },
+  {
+    "date": "2026-04-05",
+    "time": "21:29:12",
+    "total": 27,
+    "success": 27,
+    "failed": 0,
+    "success_rate": 100.0,
+    "duration": 195.1227023601532,
+    "mode": "random",
+    "sample_size": 27
+  },
+  {
+    "date": "2026-04-06",
+    "time": "21:29:24",
+    "total": 27,
+    "success": 27,
+    "failed": 0,
+    "success_rate": 100.0,
+    "duration": 206.1595380306244,
+    "mode": "random",
+    "sample_size": 27
+  },
+  {
+    "date": "2026-04-07",
+    "time": "21:29:01",
+    "total": 27,
+    "success": 27,
+    "failed": 0,
+    "success_rate": 100.0,
+    "duration": 184.2083442211151,
+    "mode": "random",
+    "sample_size": 27
+  },
+  {
+    "date": "2026-04-08",
+    "time": "21:29:24",
+    "total": 27,
+    "success": 27,
+    "failed": 0,
+    "success_rate": 100.0,
+    "duration": 206.21732544898987,
+    "mode": "random",
+    "sample_size": 27
+  },
+  {
+    "date": "2026-04-09",
+    "time": "21:29:10",
+    "total": 27,
+    "success": 27,
+    "failed": 0,
+    "success_rate": 100.0,
+    "duration": 193.48805594444275,
+    "mode": "random",
+    "sample_size": 27
+  },
+  {
+    "date": "2026-04-10",
+    "time": "21:29:10",
+    "total": 27,
+    "success": 27,
+    "failed": 0,
+    "success_rate": 100.0,
+    "duration": 193.32144165039062,
+    "mode": "random",
+    "sample_size": 27
+  },
+  {
+    "date": "2026-04-11",
+    "time": "21:29:08",
+    "total": 27,
+    "success": 27,
+    "failed": 0,
+    "success_rate": 100.0,
+    "duration": 190.78562331199646,
+    "mode": "random",
+    "sample_size": 27
+  }
+]
