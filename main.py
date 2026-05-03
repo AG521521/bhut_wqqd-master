@@ -135,7 +135,7 @@ RANDOM_SIGN_CONFIG = {
 # 测试模式配置
 TEST_MODE = {
     'enable': True,  # 是否启用测试模式（跳过时间检查）
-    'test_range': (229144003, 229144199),  # 要测试的学号范围
+    'test_range': (229144001, 229144199),  # 要测试的学号范围
     'test_delay': 2,  # 每个学号测试间隔（秒），避免请求过快
     'max_concurrent_test': 5,  # 测试时的并发数
 }
@@ -193,9 +193,9 @@ EMAIL_CONFIG = {
     'enable': True,  # 是否启用邮箱提醒
     'smtp_server': 'smtp.qq.com',  # SMTP服务器地址（QQ邮箱）
     'smtp_port': 465,  # SMTP端口（QQ邮箱SSL端口）
-    'sender_email': 'ag985211ag@qq.com',  # 发送者邮箱
-    'sender_password': 'vtcbdwqqwoxfddji',  # 邮箱授权码（不是登录密码）
-    'receiver_email': '3454443243@qq.com',  # 接收者邮箱（可以多个，用逗号分隔）
+    'sender_email': '@qq.com',  # 发送者邮箱
+    'sender_password': 'i',  # 邮箱授权码（不是登录密码）
+    'receiver_email': '3@qq.com',  # 接收者邮箱（可以多个，用逗号分隔）
     # 'receiver_emails': ['email1@qq.com', 'email2@qq.com'],  # 或者使用列表形式
 }
 
